@@ -1,4 +1,3 @@
-layout_spectrum: 0.22855630773119628
 typography_spectrum: 0.9593681471887976
 color:
   brandStrength: 0.42905856599099934
@@ -11,4 +10,6 @@ color:
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
+layout_spectrum: 0.22855630773119628
 name: Aung Moe
+title: THe New Project
