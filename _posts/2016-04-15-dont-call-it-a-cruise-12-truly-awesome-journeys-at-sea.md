@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-18T17:15:50.187Z'
+datePublished: '2016-08-18T17:23:21.509Z'
 sourcePath: _posts/2016-04-15-dont-call-it-a-cruise-12-truly-awesome-journeys-at-sea.md
 inFeed: true
 isBasedOnUrl: 'http://fathomaway.com/postcards/thrill/best-boat-cruises/'
@@ -8,25 +8,20 @@ hasPage: false
 keywords: []
 related: []
 author:
-  - name: ''
+  - name: Aung Moe
     url: ''
-dateModified: '2016-08-18T17:15:49.174Z'
-title: 'Don''t Call It a Cruise: 12 Truly Awesome Journeys at Sea'
+via: {}
+dateModified: '2016-08-18T17:23:18.234Z'
+title: Thabarwa Center Project
 app_links: []
 publisher:
-  name: Fathomaway.com
-  domain: fathomaway.com
-  url: 'http://fathomaway.com'
-  favicon: 'http://fathomaway.com/favicon.ico'
-description: >-
-  Small, chic ships with top-notch amenities and designed interiors are making
-  waves in the industry.
+  name: Aung Moe
+description: Making Thabarwa Center better for all.
 inLanguage: es
 inNav: false
-via: {}
 starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Don't Call It a Cruise: 12 Truly Awesome Journeys at Sea</h1><p>Small, chic ships with top-notch amenities and designed interiors are making waves in the industry.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a5e4d6016bbfeda6c1d2a950237cd0885c663559.jpg" /></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a5e4d6016bbfeda6c1d2a950237cd0885c663559.jpg" /><h1>Thabarwa Center Project</h1><p>Making Thabarwa Center better for all.</p></article>
